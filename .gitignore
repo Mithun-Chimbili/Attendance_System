@@ -1,0 +1,35 @@
+# Virtual Environment
+face_env/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Data and encodings (optional - comment out if you want to track these)
+# encodings/
+# attendance.csv
+
+# Environment variables
+.env
+.env.local
